@@ -92,7 +92,7 @@ public class Tokenizer {
                         ", lineNumber=" + lineNumber +
                         ", startIndex=" + startIndex +
                         ", endIndex=" + endIndex +
-                        ", filename=" + docName +
+//                        ", filename=" + docName +
                         ")    ";
     }
 
